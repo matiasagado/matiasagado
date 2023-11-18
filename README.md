@@ -1,6 +1,7 @@
 Hi! 👋
 =============================   
 `Digital Craftsman (studnet/creator)`
+
 My name is Matias Agado, I'm studying computer science at the University of San Francisco. I am passionate about software development and have an insatiable curiosity to learn more about the ever-evolving field. Eager to delve into new technologies and coding languages, I'm actively seeking out challenging projects to expand my skill set. I hope to have a few of those projects uploaded here soon!  
 * I'm based in San Francisco
 * You can contact me at [mfagado@dons.usfca.edu](mailto:mfagado@dons.usfca.edu)
