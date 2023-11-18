@@ -7,7 +7,7 @@ My name is Matias Agado, I'm studying computer science at the University of San 
 * You can contact me at [mfagado@dons.usfca.edu](mailto:mfagado@dons.usfca.edu)
 * I'm currently working on [Elevator Simulation](http://github.com/matiasagado/elevator-simulation-matiasagado)
 
-#
+---
 
 ### Skills  
 
