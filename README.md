@@ -4,7 +4,7 @@ Hi! 👋
 
 My name is Matias Agado, I'm studying computer science at the University of San Francisco. I am passionate about software development and have an insatiable curiosity to learn more about the ever-evolving field. Eager to delve into new technologies and coding languages, I'm actively seeking out challenging projects to expand my skill set. I hope to have a few of those projects uploaded here soon!  
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 * 🌎 I'm based in San Francisco
@@ -14,7 +14,6 @@ My name is Matias Agado, I'm studying computer science at the University of San 
 
 
 
----
 
 ### Skills  
 
