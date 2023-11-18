@@ -1,6 +1,6 @@
 Hi! 👋
 =============================   
-My name is Matias Agado and I am a student at the Univeristy of San Francisco. I am studying computer science at the University of San Francisco. I have been enrolled since January of 2022. As I progress through this degree, I am developing a passion to learn more and use that to innovate. I hope to have a few projects of my own on here soon!  
+My name is Matias Agado and I attend the Univeristy of San Francisco. I'm studying computer science at the University of San Francisco. I have been enrolled since January of 2022. As I progress through this degree, I am developing a passion to learn more and use that to innovate. I hope to have a few projects of my own on here soon!  
 * I'm based in San Francisco
 * You can contact me at [mfagado@dons.usfca.edu](mailto:mfagado@dons.usfca.edu)
 * I'm currently working on [Elevator Simulation](http://github.com/matiasagado/elevator-simulation-matiasagado)
