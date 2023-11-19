@@ -23,6 +23,14 @@ My name is Matias Agado and I'm studying computer science at the University of S
 
 </picture> </a> <a href="https://www.linkedin.com/in/matiasagado/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+# 
+
+### My Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=matiasagado&show_icons=true&theme=dracula">
+
+#
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey </h3> </summary>
