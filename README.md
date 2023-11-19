@@ -2,7 +2,7 @@ Hi! 👋
 =============================   
 `Digital Craftsman (student/creator)`
 
-My name is Matias Agado, I'm studying computer science at the University of San Francisco. I am passionate about software development and have an insatiable curiosity to learn more about the ever-evolving field. Eager to delve into new technologies and coding languages, I'm actively seeking out challenging projects to expand my skill set and achieve my goals! I hope to have a few of those projects uploaded here soon!  
+My name is Matias Agado, I'm studying computer science at the University of San Francisco. I am passionate about software development and have an insatiable curiosity to learn more about the ever-evolving field. Eager to delve into new technologies and coding languages, I'm actively seeking out challenging projects to expand my skill set and achieve my goals! I'm aiming to have a few of those projects uploaded here soon!  
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
