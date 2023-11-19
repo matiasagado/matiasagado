@@ -29,9 +29,3 @@ My name is Matias Agado and I'm studying computer science at the University of S
    I started my coding journey in my senior year of high school when I decided to take a Game Design elective. In this course, I acquired foundational knowledge in C++ and Unity, enabling me to craft modest 3D-rendered games. Subsequently, I furthered my education at Mira Costa Community College, where I undertook several IT classes, honing my proficiency in Unix and gaining exposure to Python. As I progressed through these courses, a passion for coding became evident. Motivated by this newfound enthusiasm, I made the decision to enroll at the University of San Francisco to pursue a degree in computer science. Since then, my appreciation for the discipline has deepened, propelling my desire not only to learn but also to attain proficiency in an array of skills and frameworks essential for a comprehensive understanding of full-stack development.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasagado&show_icons=true&theme=dracula)
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/matiasagado"><img src="https://github-readme-stats.vercel.app/api?username=matiasagado&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="matiasagado's GitHub stats" /></a>
-<a href="https://github.com/matiasagado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasagado&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
