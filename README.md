@@ -22,6 +22,7 @@ My name is Matias Agado and I'm studying computer science at the University of S
 
 </picture> </a> <a href="https://www.linkedin.com/in/matiasagado/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+<!--
 # 
 
 ### My Stats
@@ -29,7 +30,7 @@ My name is Matias Agado and I'm studying computer science at the University of S
 <a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasagado&langs_count=10&title_color=a855f7&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=matiasagado&show_icons=true&theme=buefy&hide"> 
-
+-->
 
 #
 
