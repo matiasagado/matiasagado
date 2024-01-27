@@ -9,7 +9,7 @@ My name is Matias Agado and I'm studying computer science at the University of S
 
 * 🌎 I'm based in San Francisco
 * ✉️ You can contact me at [mfagado@dons.usfca.edu](mailto:mfagado@dons.usfca.edu)
-* 🛠️ I'm currently working on [Elevator Webiste](http://github.com/matiasagado/elevator-simulation-matiasagado)
+* 🛠️ I'm currently working on [Elevator Simulation](http://github.com/matiasagado/elevator-simulation-matiasagado)
 
 
 
