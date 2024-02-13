@@ -45,13 +45,11 @@ have a few of those projects uploaded here soon!
 # 
 
 
-<!--
-### My Stats
+### 📊 My Stats
 
 <a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api?username=matiasagado&show_icons=true&theme=buefy&hide">
 
 #
--->
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey </h3> </summary>
