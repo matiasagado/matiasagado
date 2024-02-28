@@ -53,10 +53,12 @@ have a few of those projects uploaded here soon!
 -->
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey </h3> </summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+  <p>
    I started my coding journey in my senior year of high school when I decided to take a Game Design elective. In this course, I acquired foundational knowledge in C++ and Unity, enabling
- me to craft modest 3D-rendered games. Subsequently, I furthered my education at Mira Costa Community College, where I undertook several IT classes, honing my proficiency in Unix and 
- gaining exposure to Python. As I progressed through these courses, a passion for coding became evident. Motivated by this newfound enthusiasm, I made the decision to enroll at the 
- University of San Francisco to pursue a degree in computer science. Since then, my appreciation for the discipline has deepened, propelling my desire not only to learn but also to attain 
- proficiency in an array of skills and frameworks essential for a comprehensive understanding of web development.
+   me to craft modest 3D-rendered games. Subsequently, I furthered my education at Mira Costa Community College, where I undertook several IT classes, honing my proficiency in Unix and 
+   gaining exposure to Python. As I progressed through these courses, a passion for coding became evident. Motivated by this newfound enthusiasm, I made the decision to enroll at the 
+   University of San Francisco to pursue a degree in computer science. Since then, my appreciation for the discipline has deepened, propelling my desire not only to learn but also to attain 
+   proficiency in an array of skills and frameworks essential for a comprehensive understanding of web development.
+ </p>
 </details>
