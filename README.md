@@ -11,7 +11,7 @@ have a few of those projects uploaded here soon!
 
 * 🌎 I'm based in San Francisco
 * ✉️ You can contact me at [mfagado@dons.usfca.edu](mailto:mfagado@dons.usfca.edu)
-* 🛠️ I'm currently working on [login-page](http://github.com/matiasagado/login-page-matiasagado)
+* 🛠️ I'm currently working on [login-page](http://github.com/matiasagado/login-page)
 
 
 
