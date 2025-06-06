@@ -1,6 +1,6 @@
-this is me.
+Matias Agado
 =============================
-`Digital Craftsman`
+`Software Engineer`
 
 My name is Matias Agado and I'm studying computer science at the University of San Francisco. I am passionate about software development and have an insatiable curiosity to learn more about 
 the ever-evolving field. Eager to delve into new technologies and coding languages, I'm actively seeking out challenging projects to expand my skill set and achieve my goals! I'm aiming to 
