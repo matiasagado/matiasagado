@@ -35,7 +35,7 @@ have a few of those projects uploaded here soon!
 
 
  ### Socials
-
+<!--
 <a href="https://www.linkedin.com/in/matiasagado/" target="_blank" rel="noreferrer">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -43,7 +43,7 @@ have a few of those projects uploaded here soon!
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
  </picture>
 </a>
-
+-->
 # 
 
 <!--
