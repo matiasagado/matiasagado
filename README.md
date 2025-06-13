@@ -6,9 +6,6 @@ My name is Matias Agado and I'm studying computer science at the University of S
 the ever-evolving field. Eager to delve into new technologies and coding languages, I'm actively seeking out challenging projects to expand my skill set and achieve my goals! I'm aiming to 
 have a few of those projects uploaded here soon!
 
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJxbGM3ZHFxMms0cXJpcGx1d2s5bDF5c210aTdmZzRwbWtvM3JoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5iCpBsEJN3E59BbxU/giphy.gif">
-
-
 * 🌎 I'm based in San Francisco
 * ✉️ You can contact me at [mfagado@dons.usfca.edu](mailto:mfagado@dons.usfca.edu)
 * 🛠️ I'm currently working on [my-portfolio](http://github.com/matiasagado/my-portfolio)
