@@ -20,7 +20,7 @@ I combine a background in `systems programming` with `client-facing experience`,
   *Focus: Docker, Linux, networking, system monitoring*
 
 - 🌐 **Foothold**  
-  A platform connecting transfer students through shared schools, interests, and resources  
+  <!-- A platform connecting transfer students through shared schools, interests, and resources  -->
   *Stack: MERN (MongoDB, Express, React, Node.js), Docker*
 
 <!-- - 💻 **Portfolio**  
