@@ -15,26 +15,27 @@ I combine a background in `systems programming` with `client-facing experience`,
 
 ## 🛠️ What I'm Building
 
-- 🖥️ **Homelab**  
-  Building a personal homelab to deploy and monitor full-stack and AI systems  
-  *Focus: Docker, Linux, networking, system monitoring*
+### 🖥️ Homelab  
+Building a personal homelab to deploy and monitor full-stack and AI systems.  
+*Focus: Docker, Linux, networking, system monitoring*  
 
-- 🌐 **Foothold**  
-  <!-- A platform connecting transfer students through shared schools, interests, and resources  -->
-  *Stack: MERN (MongoDB, Express, React, Node.js), Docker*
+### 🧠 AI Intelligence System
+Developed an AI log analysis system, initially for benchmark datasets, now extending to analyze real-time logs and metrics from my homelab.  
+- Integrated LLMs to detect anomalies, diagnose issues, and suggest fixes  
+- Compared model performance across datasets and real-world logs  
+- Focused on practical evaluation, decision-making, and progressive enhancements  
+*Stack: Python, data pipelines, evaluation metrics*
+  <!--
+  - 🌐 **Foothold**  
+  A platform connecting transfer students through shared schools, interests, and resources 
+  *Stack: MERN (MongoDB, Express, React, Node.js), Docker* 
 
-<!-- - 💻 **Portfolio**  
+  - 💻 **Portfolio**  
   Central place to showcase projects, experiments, and homelab setups  
   *Link: [Portfolio](#) – coming soon* -->
 
 
 ## ⚙️ Projects
-
-### 🧠 AI Log Analysis System
-Built a pipeline to benchmark LLMs using F1 score and accuracy for real-time threat detection.  
-- Compared model performance across datasets  
-- Focused on practical evaluation and decision-making  
-*Stack: Python, data pipelines, evaluation metrics*
 
 ### 💻 RISC-V CPU Emulator
 Simulated hardware-level CPU behavior entirely in software.  
