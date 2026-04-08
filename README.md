@@ -26,8 +26,7 @@ Developed an AI log analysis system, initially for benchmark datasets, now exten
 - Focused on practical evaluation, decision-making, and progressive enhancements  
 *Stack: Python, data pipelines, evaluation metrics*
   <!--
-  - 🌐 **Foothold**  
-  A platform connecting transfer students through shared schools, interests, and resources 
+  - 🌐 **Foothold**   
   *Stack: MERN (MongoDB, Express, React, Node.js), Docker* 
 
   - 💻 **Portfolio**  
