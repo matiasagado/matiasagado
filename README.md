@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=Hi,+I'm+Matias+Agado!+👋;" />
 </h1>
 
-## 🚀 Software Engineer | Systems + AI + Deployment
+## 🚀 Solutions Engineer | AI + Cybersecurity + Observability
 
-Computer Science graduate focused on building and deploying full-stack and AI systems.
+Computer Science graduate focused on building intelligent, secure, and observable systems.
 
 I combine a background in `systems programming` with `client-facing experience`, allowing me to both build complex systems and clearly communicate their value. I’ve worked across technical and real-world environments, from low-level CPU simulation to AI evaluation pipelines.
 
