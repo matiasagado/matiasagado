@@ -2,11 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=Hi,+I'm+Matias+Agado!+👋;" />
 </h1>
 
-## 🚀 Software Engineer | AI + Cybersecurity + Observability
+## 🚀 Software Engineer | AI, Systems & Infrastructure | Bridging Tech + Business
 
 Computer Science graduate focused on building intelligent, secure, and observable systems.
 
-I combine a background in `systems programming` with `client-facing experience`, allowing me to both build complex systems and clearly communicate their value. I’ve worked across technical and real-world environments, from low-level CPU simulation to AI evaluation pipelines.
+I combine a background in `systems programming` with `client-facing experience`, allowing me to both build complex systems and clearly communicate their value. My work ranges from low-level CPU simulation to AI-driven log analysis, with a focus on practical systems, performance, and real-world application.
+
+Currently building a server to deploy and monitor full-stack and AI systems, with a focus on Dockerized infrastructure and security.
 
 - 📍 Based in San Diego  
 - ✉️ Contact: mfagado@dons.usfca.edu  
@@ -15,16 +17,16 @@ I combine a background in `systems programming` with `client-facing experience`,
 
 ## 🛠️ What I'm Building
 
-### 🖥️ Homelab  
-Building a personal homelab to deploy and monitor full-stack and AI systems.  
-*Focus: Docker, Linux, networking, system monitoring*  
+### 🖥️ Home Server 
+Building a private server to deploy and monitor full-stack and AI systems.  
+*Focus: Docker, Linux, Networking, System Monitoring*  
 
 ### 🧠 AI Intelligence System
-Developed an AI log analysis system, initially for benchmark datasets, now extending to analyze real-time logs and metrics from my homelab.  
+Developed an AI log analysis system, initially for benchmark datasets, now extending to analyze real-time logs and metrics from my server.  
 - Integrated LLMs to detect anomalies, diagnose issues, and suggest fixes  
-- Compared model performance across datasets and real-world logs  
+- Evaluated model performance across datasets and live system logs to determine best-performing solutions    
 - Focused on practical evaluation, decision-making, and progressive enhancements  
-*Stack: Python, data pipelines, evaluation metrics*
+  *Focus: Security, Observability, Data Pipelines, Evaluation Metrics*
   <!--
   - 🌐 **Foothold**   
   *Stack: MERN (MongoDB, Express, React, Node.js), Docker* 
@@ -40,7 +42,7 @@ Developed an AI log analysis system, initially for benchmark datasets, now exten
 Simulated hardware-level CPU behavior entirely in software.  
 - Implemented instruction parsing and execution  
 - Modeled memory and register behavior  
-*Stack: C, systems programming*
+  *Focus: C, RISC-V Assembly, Systems Programming*
 
 
 ## 🧰 Tech Stack
