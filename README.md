@@ -18,7 +18,7 @@ Currently building a server to deploy and monitor full-stack and AI systems, wit
 ## 🛠️ What I'm Building
 
 ### 🖥️ Home Server 
-Building a [private server](homelab) to deploy and monitor full-stack and AI systems. 
+Building a [private server](https://github.com/matiasagado/homelab) to deploy and monitor full-stack and AI systems. 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  USER LAYER          Glance · Nextcloud · Jellyfin · Immich |
