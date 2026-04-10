@@ -18,8 +18,20 @@ Currently building a server to deploy and monitor full-stack and AI systems, wit
 ## 🛠️ What I'm Building
 
 ### 🖥️ Home Server 
-Building a private server to deploy and monitor full-stack and AI systems.  
-*Focus: Docker, Linux, Networking, System Monitoring*  
+Building a [private server](homelab) to deploy and monitor full-stack and AI systems. 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  USER LAYER          Glance · Nextcloud · Jellyfin · Immich |
+├─────────────────────────────────────────────────────────────┤
+│  ACCESS LAYER        Nginx/Traefik · Tailscale · Authelia   |
+├─────────────────────────────────────────────────────────────┤
+│  INFRASTRUCTURE      Docker Compose · Portainer             |
+├─────────────────────────────────────────────────────────────┤
+│  OBSERVABILITY       Prometheus · Grafana · Loki            |
+├─────────────────────────────────────────────────────────────┤
+│  INTELLIGENCE        Ollama — log analysis · anomaly alerts |
+└─────────────────────────────────────────────────────────────┘
+``` 
 
 ### 🧠 AI Intelligence System
 Developed an AI log analysis system, initially for benchmark datasets, now extending to analyze real-time logs and metrics from my server.  
