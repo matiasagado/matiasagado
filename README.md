@@ -18,7 +18,7 @@ Currently building a server to deploy and monitor full-stack and AI systems, wit
 ## 🛠️ What I'm Building
 
 ### 🖥️ Home Server 
-Building a [private server](https://github.com/matiasagado/homelab) to deploy and monitor full-stack and AI systems. 
+Building a private server to deploy and monitor full-stack and AI systems. 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  USER LAYER          Glance · Nextcloud · Jellyfin · Immich |
@@ -31,7 +31,8 @@ Building a [private server](https://github.com/matiasagado/homelab) to deploy an
 ├─────────────────────────────────────────────────────────────┤
 │  INTELLIGENCE        Ollama — log analysis · anomaly alerts |
 └─────────────────────────────────────────────────────────────┘
-``` 
+```
+[View Project](https://github.com/matiasagado/homelab)  
 
 ### 🧠 AI Intelligence System
 Developed an AI log analysis system, initially for benchmark datasets, now extending to analyze real-time logs and metrics from my server.  
