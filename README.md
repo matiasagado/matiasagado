@@ -12,7 +12,7 @@ Currently building a server to deploy and monitor full-stack and AI systems, wit
 
 - 📍 Based in San Diego  
 - ✉️ Contact: mfagado@dons.usfca.edu  
-- 🧠 Interested in systems, AI, and infrastructure  
+- 🧠 Interested in security, AI, and infrastructure  
 
 
 ## 🛠️ What I'm Building
