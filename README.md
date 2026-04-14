@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=Hi,+I'm+Matias+Agado!+👋;" />
 </h1>
 
-## 🚀 Software Engineer | AI, Systems & Infrastructure | Bridging Tech + Business
+## 🚀 Software Engineer | AI, Security & Infrastructure | Bridging Tech + Business
 
 Computer Science graduate focused on building intelligent, secure, and observable systems.
 
