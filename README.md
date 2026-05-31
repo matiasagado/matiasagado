@@ -11,67 +11,7 @@ I combine a background in `systems programming` with `client-facing experience`,
 Currently building a server to deploy and monitor full-stack and AI systems, with a focus on Dockerized infrastructure and security.
 
 - 📍 Based in San Diego  
-- ✉️ Contact: mfagado@dons.usfca.edu  
-- 🧠 Interested in security, AI, and infrastructure  
-
-
-## 🛠️ What I'm Building
-
-### 🖥️ Home Server 
-Building a private server to deploy and monitor full-stack and AI systems. 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  USER LAYER          Glance · Nextcloud · Jellyfin · Immich |
-├─────────────────────────────────────────────────────────────┤
-│  ACCESS LAYER        Nginx/Traefik · Tailscale · Authelia   |
-├─────────────────────────────────────────────────────────────┤
-│  INFRASTRUCTURE      Docker Compose · Portainer             |
-├─────────────────────────────────────────────────────────────┤
-│  OBSERVABILITY       Prometheus · Grafana · Loki            |
-├─────────────────────────────────────────────────────────────┤
-│  INTELLIGENCE        Ollama — log analysis · anomaly alerts |
-└─────────────────────────────────────────────────────────────┘
-```
-[View Project](https://github.com/matiasagado/homelab)  
-
-### 🧠 AI Intelligence System
-Developed an AI log analysis system, initially for benchmark datasets, now extending to analyze real-time logs and metrics from my server.  
-- Integrated LLMs to detect anomalies, diagnose issues, and suggest fixes  
-- Evaluated model performance across datasets and live system logs to determine best-performing solutions    
-- Focused on practical evaluation, decision-making, and progressive enhancements  
-  *Focus: Security, Observability, Data Pipelines, Evaluation Metrics*
-  <!--
-  - 🌐 **Foothold**   
-  *Stack: MERN (MongoDB, Express, React, Node.js), Docker* 
-
-  - 💻 **Portfolio**  
-  Central place to showcase projects, experiments, and homelab setups  
-  *Link: [Portfolio](#) – coming soon* -->
-
-
-## ⚙️ Projects
-
-### 💻 RISC-V CPU Emulator
-Simulated hardware-level CPU behavior entirely in software.  
-- Implemented instruction parsing and execution  
-- Modeled memory and register behavior  
-  *Focus: C, RISC-V Assembly, Systems Programming*
-
-
-## 🧰 Tech Stack
-
-<div align="left">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
-</div>
-
+- 🧠 Interested in security, AI, and infrastructure
 
 ## 🔗 Connect
 
@@ -85,4 +25,33 @@ Simulated hardware-level CPU behavior entirely in software.
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
+</div>
+
+## 🧰 Tech Stack
+
+**Languages**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" title="Go"/>
+</div>
+
+**Frameworks & Libraries**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js"/>
+
+**Databases & Backend**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/>
+
+**DevOps & Tools**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
 </div>
