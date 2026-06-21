@@ -1,19 +1,7 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=6000&lines=Hi,+I'm+Matias+Agado!+👋;" />
-</h1>
 
-## Software Engineer | AI, Security & Infrastructure | Bridging Tech + Business
+<img width="1511" height="826" alt="Screenshot 2026-06-20 at 10 53 25 PM" src="https://github.com/user-attachments/assets/3e4b170e-d845-4b7b-9e71-28f523b194ae" />
 
-Computer Science graduate focused on building intelligent, secure, and observable systems.
-
-I combine a background in `systems programming` with `client-facing experience`, allowing me to both build complex systems and clearly communicate their value. My work ranges from low-level CPU simulation to AI-driven log analysis, with a focus on practical systems, performance, and real-world application.
-
-Currently building a server to deploy and monitor full-stack and AI systems, with a focus on Dockerized infrastructure and security.
-
-- 📍 Based in San Diego  
-- 🧠 Interested in security, AI, and infrastructure
-
-## Connect
+#
 
 <div align="left"> 
   <a href="mailto:mfagado@usfca.edu">
