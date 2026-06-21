@@ -1,7 +1,13 @@
 
-<img width="1511" height="826" alt="Screenshot 2026-06-20 at 10 53 25 PM" src="https://github.com/user-attachments/assets/3e4b170e-d845-4b7b-9e71-28f523b194ae" />
+<h1> Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h1>
 
-#
+I'm [**Matias**](https://matiasagado.com), a software engineer in San Francisco.
+
+I currently work as an AI Model Engineer [**@HandshakeAI**](https://app.joinhandshake.com), where I collaborate with AI researchers to test LLM outputs and provide structured feedback to make model responses more accurate and useful.
+
+I have a background in revenue-driven, client-facing roles and technical systems. From cold-calling distressed property owners to managing high-volume service environments, I enjoy figuring out the best solutions to human problems. 
+
+Outside of work, I'm interested in following the development of AI and systems. I also love experiencing new cultures in different countries and backpacking whenever I get the chance. 
 
 <div align="left"> 
   <a href="mailto:mfagado@usfca.edu">
