@@ -9,6 +9,7 @@ I have a background in revenue-driven, client-facing roles and technical systems
 
 Outside of work, I'm interested in following the development of AI and systems. I also love experiencing new cultures in different countries and backpacking whenever I get the chance. 
 
+#### Let's connect!
 <div align="left"> 
   <a href="mailto:mfagado@usfca.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -20,6 +21,8 @@ Outside of work, I'm interested in following the development of AI and systems. 
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
+
+<br/><br/><br/>
 
 ## Tech Stack
 
