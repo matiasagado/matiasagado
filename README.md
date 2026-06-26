@@ -11,13 +11,13 @@ Outside of work, I'm interested in following the development of AI and systems. 
 
 #### Let's connect!
 <div align="left"> 
-  <a href="mailto:mfagado@usfca.edu">
+  <a href="mailto:mfagado1@dons.usfca.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/matiasagado" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://matiasagado.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
